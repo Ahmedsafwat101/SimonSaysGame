@@ -18,7 +18,7 @@ My variant of the Simon Says app from Section 15 of The Complete 2021 Web Develo
   
 ## Screenshots
 
-![App Screenshot](https://github.com/Ahmedsafwat101/Interactive-commandLine-Notes/blob/main/imgs/Annotation2021-07-23003126.jpg)
+![App Screenshot](https://github.com/Ahmedsafwat101/SimonSaysGame/blob/main/img/Annotation%202021-07-23%20003126.jpg)
 
   
 ## Tech Stack
@@ -31,7 +31,7 @@ My variant of the Simon Says app from Section 15 of The Complete 2021 Web Develo
 Clone the project
 
 ```bash
-  git clone https://github.com/Ahmedsafwat101/Interactive-commandLine-Notes
+  git clone https://github.com/Ahmedsafwat101/SimonSaysGame.git
 ```
 
 
